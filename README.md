@@ -26,7 +26,7 @@ These functions have their own usage however you need to be sure that
 
 ### All types, variables, tablenames, table records, tuples, html ```$_POST``` or ```$_GET``` name and methods are test files and you have to type and insert your own record. This code just make things easier for the main source which you have to include the library file as mentioned.
 
-For example if we want to use selector, we have to have to set the ```selector()``` arguements on the order as mentioned. Here the order is based on ```name``,```id```,```email```,```password```,```repeat_password```,```tablename```. Of course ```tablename``` is quite important because it is your table.
+For example if we want to use selector, we have to have to set the ```selector()``` arguements on the order as mentioned. Here the order is based on ``name``,```id```,```email```,```password```,```repeat_password```,```tablename```. Of course ```tablename``` is quite important because it is your table.
 
 the access can be set like this :
 ```php
